@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fake User</string>
+    <string name="about_app">Hi, I\'m Matrix.\n\nThe app \'Fake User\', which you are using now is used to create information for a fake person.\n\nYou can refresh to get new person\'s information by clicking refresh icon on top right corner.\n\nYou can share this person\'s details.\n\nSerial no: 33\nDate of creation: 4 May 2022\nContact us: matrixinventions@gmail.com</string>
+</resources>
